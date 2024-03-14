@@ -1,0 +1,26 @@
+
+input {
+    font-size: 30px;
+    border-radius: 10px;
+    margin: 20px;
+    background-color: white;
+    background-repeat: no-repeat;
+    padding-left: 10px;
+    background-position: 350px 8px;
+    cursor: pointer;}
+  span{
+    color: #bc0c73;
+    height: 20px;
+    width: 20px;
+  } 
+   button{
+    background-color: #bc0c73;
+    margin:10px ;
+    padding: 10px;
+    border:darkcyan ;
+   }
+   #image1{
+    margin: 50px;
+    height: 30px;
+    width: 30px;
+   }
